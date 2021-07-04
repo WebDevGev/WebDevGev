@@ -1,6 +1,8 @@
-### Hello world 😊
+## Hello world 😊
 
-Here you can find some of my training projects, key skills, soft and hard skills, in general everything that
+I'm Gevorg.
+I'm a full stack web developer.
+Here you can find some of my training projects, soft and hard skills, in general everything that
 in my opinion  represents me as a developer.
 
 # My Projects
@@ -24,29 +26,23 @@ in my opinion  represents me as a developer.
   - Python 3 (basic knowledge)
   - devtools (basic knowledge).
 
-## Soft-Skills
+##  About me (Soft-Skills)
 
-  Я считаю, что я:
-  - коммуникабельный, способный к диалогу, открытый человек;
-  - самодисциплинированный, ответственный, трудолюбивый;
-  - английский язык на уровне В2, понимаю профессиональную документацию.
-  - французский язык - В2, украинский - В1, армянский и русский - родные;
-  - сам могу найти нужную информацию в интернете;
-  - умею и люблю задавать вопросы, чтобы профессионально развиваться, если не помог гугл.
+  - Passionate by logic, solving problems and learning. We can say that I found myself in programming and web-development. 
+  - Strong in communication and easily become a part of any team.
+  - I'm sociable, responsible, hardworking and open person;
+  - I can and love to ask questions in order to develop professionally, if Google did not help.
   
-##  Пройденные курсы
+##  Education
 
-  - Самообразование;
-  - Курс на Udemy : full-stack web developer, HTML, CSS, Javascript, Node, React, MongoDB and more...
+  - The App Brewery, online - The Complete 2021 Web Development Bootcamp. HTML, CSS, Javascript, Node, React, MongoDB and more...
+  - University of Strasbourg, Strasbourg, France - French as foreign language
+  - Military Academy, Minsk, Belarus - Master's Degree, Lawyer
 
-##  Настольные книги:
+##  Languages:
 
-  - Выразительный javascript;
-  - Грокаем алгоритмы;
-  - Функциональный react + redux.
-
-## Ещё раз о себе:
-
-  Я решил развиваться в сфере web разработки и стать программистом сразу после того как я прошел свой первый онлайн-курс. Я, неожиданно для себя, понял, что мне нравится процесс разработки, нравится создавать новые проекты и ощущать чувство небольшой победы после каждого куска правильно работающего кода. Нравиться также чувство озарения когда после долгих раздумий вдруг находишь идеальное решение. Также для меня является большим плюсом возможность удаленной работы. 
-  Начиная со студенческих лет, часть своего свободного времени уделяю обучению и развитию, что для меня уже стало обязательной привычкой без которого мне сложно обойтись. 
-  Чтобы расслабиться и переключиться - учусь играть на гитаре, занимаюсь спортом, иду в походы, общаюсь с друзями.
+  - English - Upper Intermediate (understanding professional documentation)
+  - French - Upper Intermediate
+  - Russian - Native
+  - Armenian - Native
+  - Ukrainian - Intermediate
