@@ -1,7 +1,7 @@
-## Добрый день!
-Если Вы читаете это, скорее всего, Вы - мой потенциальный работодатель. Здесь Вы можете найти
-некоторые мои учебные проекты, ключевые навыки, soft и hard скиллы, и, в общем, всё, что
-на мой взгляд, представляет меня, как разработчика.
+### Hello world 😊
+
+Here you can find some of my training projects, key skills, soft and hard skills, in general everything that
+in my opinion  represents me as a developer.
 
 # My Projects
 
@@ -14,14 +14,15 @@
 
 ##  Hard-Skills
 
-  - html/css;
-  - javascript;
-  - git, github;
-  - devtools basics;
-  - reactJS;
-  - expressJS basics;
-  - nodeJS;
-  - npm.
+  - JavaScript (DOM, jQuery)
+  - NodeJS (npm, Express, EJS...)
+  - React
+  - Databases (NO SQL - MongoDB, Mongoose), SQL (basic knowledge)
+  - HTML / CSS
+  - Git, Github and Version control
+  - Command line
+  - Python 3 (basic knowledge)
+  - devtools (basic knowledge).
 
 ## Soft-Skills
 
