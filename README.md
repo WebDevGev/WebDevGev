@@ -11,6 +11,7 @@ in my opinion  represents me as a developer.
   2.  I've colled this fun game "Catch Malevich". In pure JS, DOM.Check it to have some fun - https://webdevgev.github.io/Catch_Malevich_JS_Game/
   3.  Keeper App. Chek this React project by downloading it from my git repo - https://github.com/WebDevGev/Keeper
   4.  Website for our four-legged friends 😊🐾. Practice on  HTML, CSS, Bootstrap - https://webdevgev.github.io/TinDog---HTML---CSS---Bootstrap/ 
+  5.  Chek up other projects in my github repo.
 
 ##  Hard-Skills
 
